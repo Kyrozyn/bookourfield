@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Halo, selamat datang di github page bookourfield
 
-You can use the [editor on GitHub](https://github.com/Kyrozyn/bookourfield.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Aplikasi ini mempermudah pelanggan yang ingin **menyewa tempat olahraga secara online**. Pelanggan mendapatkan kemudahan dengan melihat lapangan yang tersedia di aplikasi tersebut serta harga yang sudah dicantumkan per jamnya tanpa pelanggan/penyewa harus datang ke lokasi. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aplikasi ini juga mempermudah para **pelaku usaha tempat** olahraga dengan mendaftarkan tempat sewanya ke dalam aplikasi ini.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kyrozyn/bookourfield.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Diharapkan dengan adanya aplikasi ini, akan mempersingkat waktu yang terbuang dalam proses penyewaan dan menghemat biaya yang dikeluarkan oleh pelaku usaha untuk memasarkan dan memasang iklan.
